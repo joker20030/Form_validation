@@ -1,0 +1,46 @@
+body{
+    background:#000000;
+}
+.error {
+  color:red;
+}
+input[type=text] {
+  background-color:#000000;
+  border: 2px solid lime;
+  border-radius: 4px;
+  color:lime;
+}
+input[type=password] {
+  background-color:#000000;
+  border: 2px solid lime;
+  border-radius: 4px;
+  color:lime
+}
+input[type=email] {
+  background-color:#000000;
+  border: 2px solid lime;
+  border-radius: 4px;
+  color:lime
+}
+input[type=submit]{
+background-color:lime;
+color:#000000;
+border: none;
+border-radius: 15px;
+}
+h2{
+    color:#00ff00;
+}
+a{
+    margin-left:47%;
+}
+h3{
+    color:#00ff00;
+    margin-top:20%;
+    margin-left:40%;
+}
+h4{
+    color:#00ff00;
+    margin-top:0;
+    margin-left:43%;
+}
